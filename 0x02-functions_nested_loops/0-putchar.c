@@ -1,8 +1,8 @@
-#include <main.h>
+#include "main.h"
 
 
 /**
- * main - Entry point
+ * main - Entry point of my code,
  *
  * Return: Always 0 
  */
